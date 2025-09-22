@@ -44,7 +44,7 @@ function Footer() {
               SB PORTFOLIO
             </MKTypography>
             <MKTypography variant="h6" mb={{ xs: 2, lg: 3 }}>
-              sofia.bacheikh@gmail.com
+              sofia.crepuscule@gmail.com
             </MKTypography>
             <Stack
               component="ul"

@@ -93,7 +93,7 @@ function Profile() {
                 </MKTypography>
                 <Grid container spacing={3} justifyContent="center">
                   <Grid item xs={4} lg={2}>
-                    <Tooltip title="Bootstrap 5 - Most popular front-end component library">
+                    <Tooltip title="Microsoft SQL Server">
                       <MKBox
                         component="a"
                         href="https://www.creative-tim.com/product/material-kit"
@@ -104,7 +104,7 @@ function Profile() {
                     </Tooltip>
                   </Grid>
                   <Grid item xs={4} lg={2}>
-                    <Tooltip title="Comming soon">
+                    <Tooltip title=".Net">
                       <MKBox
                         opacity={0.5}
                         component="a"
@@ -117,7 +117,7 @@ function Profile() {
                     </Tooltip>
                   </Grid>
                   <Grid item xs={4} lg={2}>
-                    <Tooltip title="Comming soon">
+                    <Tooltip title="MongoDB">
                       <MKBox
                         opacity={0.5}
                         component="a"
@@ -130,7 +130,7 @@ function Profile() {
                     </Tooltip>
                   </Grid>
                   <Grid item xs={4} lg={2}>
-                    <Tooltip title="Comming soon">
+                    <Tooltip title="Docker">
                       <MKBox
                         opacity={0.5}
                         component="a"
@@ -138,12 +138,12 @@ function Profile() {
                         target="_blank"
                         onClick={(e) => e.preventDefault()}
                       >
-                        <MKBox component="img" src={img4} width="100%" />
+                        <MKBox component="img" src={img4} width="110%" />
                       </MKBox>
                     </Tooltip>
                   </Grid>
                   <Grid item xs={4} lg={2}>
-                    <Tooltip title="Comming soon">
+                    <Tooltip title="React">
                       <MKBox
                         component="a"
                         href="https://www.creative-tim.com/product/material-kit-react"
@@ -158,7 +158,7 @@ function Profile() {
                     </Tooltip>
                   </Grid>
                   <Grid item xs={4} lg={2}>
-                    <Tooltip title="Comming soon">
+                    <Tooltip title="Postman">
                       <MKBox
                         opacity={0.5}
                         component="a"
