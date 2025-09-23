@@ -63,7 +63,7 @@ function Information() {
                   <DefaultInfoCard
                     icon="apps"
                     title="Tools and apps"
-                    description="visual studio, postman, SQL Server Management Studio, docker, git, github"
+                    description="Visual Studio, Postman, SQL Server Management Studio, Docker, Git, Github"
                   />
                 </MKBox>
               </Grid>
