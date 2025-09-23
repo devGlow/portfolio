@@ -45,7 +45,7 @@ function Places() {
             <TransparentBlogCard
               image={post1}
               title="WebHook"
-              description="FA lightweight implementation of WebHooks HTTP pattern using a simple pub/sub"
+              description="This project is a lightweight implementation of WebHooks HTTP pattern using a simple pub/sub."
               action={{
                 type: "external",
                 route: "https://github.com/devGlow/WebHook",
@@ -58,7 +58,7 @@ function Places() {
             <TransparentBlogCard
               image={post2}
               title="GenerateQuestPDF"
-              description="Generates pdfs using the library QUESTPDF"
+              description="This project generates pdfs using the library QUESTPDF"
               action={{
                 type: "external",
                 route: "https://github.com/devGlow/GenerateQuestPDF",
@@ -71,7 +71,7 @@ function Places() {
             <TransparentBlogCard
               image={post3}
               title="CrudJWTSignalR"
-              description="I.NET 9 generic CRUD API with SignalR real-time updates, JWT authentication, and UnitOfWork pattern."
+              description="This project is a .NET 9 generic CRUD API with SignalR real-time updates, JWT authentication, and UnitOfWork pattern."
               action={{
                 type: "external",
                 route: "https://github.com/devGlow/CrudJWTSignalR",
