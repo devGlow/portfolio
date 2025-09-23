@@ -28,7 +28,7 @@ import profilePicture from "assets/images/avatar.jpg";
 import img1 from "assets/images/Microsoft_SQL_Server_Logo.svg.png";
 import img2 from "assets/images/net.png";
 import img3 from "assets/images/mongodb_original_wordmark_logo_icon_146425.png";
-import img4 from "assets/images/Docker-Symbol.png";
+import img4 from "assets/images/docker2.png";
 import img5 from "assets/images/Postman-Logo-Vector-768x768.jpg";
 
 function Profile() {
@@ -138,7 +138,7 @@ function Profile() {
                         target="_blank"
                         onClick={(e) => e.preventDefault()}
                       >
-                        <MKBox component="img" src={img4} width="110%" />
+                        <MKBox component="img" src={img4} width="100%" />
                       </MKBox>
                     </Tooltip>
                   </Grid>
