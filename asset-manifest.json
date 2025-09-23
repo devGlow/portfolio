@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.js": "/portfolio/static/js/main.e555a4a6.js",
+    "main.js": "/portfolio/static/js/main.541251b2.js",
     "static/media/blueImg.jpg": "/portfolio/static/media/blueImg.094d26c368d4b2974d87.jpg",
     "static/media/city-profile.jpg": "/portfolio/static/media/city-profile.4d64bba97c3d1757379e.jpg",
     "static/media/Microsoft_SQL_Server_Logo.svg.png": "/portfolio/static/media/Microsoft_SQL_Server_Logo.svg.4e5917ae362e996b9586.png",
@@ -10,9 +10,9 @@
     "static/media/mongodb_original_wordmark_logo_icon_146425.png": "/portfolio/static/media/mongodb_original_wordmark_logo_icon_146425.31ecd959b6a0e3da10d8.png",
     "static/media/Postman-Logo-Vector-768x768.jpg": "/portfolio/static/media/Postman-Logo-Vector-768x768.6a4737be26a0c50210cf.jpg",
     "index.html": "/portfolio/index.html",
-    "main.e555a4a6.js.map": "/portfolio/static/js/main.e555a4a6.js.map"
+    "main.541251b2.js.map": "/portfolio/static/js/main.541251b2.js.map"
   },
   "entrypoints": [
-    "static/js/main.e555a4a6.js"
+    "static/js/main.541251b2.js"
   ]
 }
