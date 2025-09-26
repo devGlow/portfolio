@@ -97,7 +97,13 @@ function Profile() {
                 <Grid container spacing={3} justifyContent="center">
                   <Grid item xs={4} lg={2}>
                     <Tooltip title="Microsoft SQL Server">
-                      <MKBox component="a" href="#" target="_blank">
+                      <MKBox
+                        opacity={0.5}
+                        component="a"
+                        href="#"
+                        target="_blank"
+                        onClick={(e) => e.preventDefault()}
+                      >
                         <MKBox component="img" src={img1} width="100%" />
                       </MKBox>
                     </Tooltip>
@@ -144,9 +150,11 @@ function Profile() {
                   <Grid item xs={4} lg={2}>
                     <Tooltip title="React">
                       <MKBox
+                        opacity={0.5}
                         component="a"
-                        href="https://www.creative-tim.com/product/material-kit-react"
+                        href="#"
                         target="_blank"
+                        onClick={(e) => e.preventDefault()}
                       >
                         <MKBox
                           component="img"
